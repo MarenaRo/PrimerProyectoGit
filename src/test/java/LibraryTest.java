@@ -4,6 +4,9 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+/**
+ * Marena
+ */
 public class LibraryTest {
     @Test public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
